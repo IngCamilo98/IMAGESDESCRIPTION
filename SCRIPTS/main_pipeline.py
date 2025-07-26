@@ -1,3 +1,5 @@
+print('Hello world')
+
 """
 
 # 1. Configuración inicial y carga de credenciales
