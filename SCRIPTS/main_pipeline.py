@@ -83,4 +83,7 @@ cargar_a_mysql(descripciones_listas_para_cargar, MYSQL_CREDENTIALS)
 
 
 # --- Finalización del Pipeline ---
-IMPRIMIR mensaje de éxito o resumen de errores. """
+IMPRIMIR mensaje de éxito o resumen de errores. 
+Esot solo lo es para sumar algo
+
+"""
