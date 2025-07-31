@@ -18,3 +18,7 @@ Idea general del proyecto
        |
        v
 [Tabla `image_descriptions` en MySQL]
+
+Conexion con Mysql
+pip install mysql-connector-python
+
